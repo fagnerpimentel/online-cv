@@ -90,46 +90,56 @@ education:
           Robotics research line as a member of the Bahia Robotics Team 
           (BahiaRT - http://www.acso.uneb.br/bahiart/) from 2008 until 2016.
 
-# experiences:
-#     title: Experiences
-#     info:
-#       - role: Lead Developer
-#         time: 2015 - Present
-#         company: Startup Hubs, San Francisco
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#           error sit voluptatem accusantium doloremque laudantium, totam rem
-#           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#           architecto beatae vitae dicta sunt explicabo.
-#             - Bullet point
-#             - Bullet point
-#       - role: Senior Software Engineer
-#         time: 2014 - 2015
-#         company: Google, London
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
-#       - role: UI Developer
-#         time: 2012 - 2014
-#         company: Amazon, London
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: Pesquisador Bolsista
+        time: 2008 - 2011
+        company: Universidade do Estado da Bahia, UNEB, Brasil.
+        details: |
+          Bolsas relativas a participação no núcleo de pesquisa ACSO, onde trabalhou com inteligência artificial, robótica, engenharia de software e visão computacional.
+      - role: Lider técnico
+        time: 2011 - 2012
+        company: Universidade do Estado da Bahia, UNEB, Brasil.
+        details: |
+          Responsável pelo levantamento e desenvolvimento dos requisitos do produto garantindo que os mesmos sejam implementados adequadamente pelos desenvolvedores, nos aspectos negociais e tecnológicos. (também atuando como desenvolvedor.). Responsável também por estimar o tamanho do projeto com base nos requisitos levantados e elaborar a especificação técnica do produto. Responsável por criar e controlar o ambiente do projeto. Além de estabelecer as baselines e builds.
+      - role: Pesquisador voluntário
+        time: 2012 - 2013
+        company: Universidade do Estado da Bahia, UNEB, Brasil.
+        details: |
+          Participação no núcleo de pesquisa ACSO, onde trabalhou com inteligência artificial, robótica, engenharia de software e visão computacional.
+      - role: Pesquisador bolsista
+        time: 2013 - 2015
+        company: Universidade Federal da Bahia, UFBA, Brasil.
+        details: |
+          Participação no Grupo de Pesquisa em Computação Visual (GPCV), onde trabalhou com visão computacional.
+          Concessão de auxílio para o desenvolvimento de estudos e pesquisas de natureza científica, realizadas por pessoas físicas na condição de estudante, observado o disposto no art. 26 da Lei Complementar n.o 101, de 2000.
+      - role: Analista de sistemas
+        time: 2015 - 2017
+        company: D&D Soluções em Matemática Computacional, D&D MASTERS, Brasil.
+        details: |
+          Desenvolvimento de soluções matemáticas e computacionais para aplicações web e dispositivos móveis.
+
+
+      - role: Pesquisador bolsista
+        time: 2017 - 2022
+        company: FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS, FEI, Brasil.
+        details: |
+          Pesquisa realizadas no RoboFEI com robôs de serviço/doméstico. Trabalhando com IHR com foco em interaçãoes espaciais.
+
+      - role: Professor
+        time: 2022 - Atual
+        company: FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS, FEI, Brasil.
+        details: |
+          Disciplinas ministradas
+            - Desenvolvimento WEB
+            - Desenvolvimento de Jogos 
+            - Estrutura de dados
+            - Inteligência artificial (IA)
+            - Robótica 
+            - Robótica Probabiistica
+            - Navegação de robôs 
+            - Interação Humano-Robô (IHR)
 
 # certifications:
 #       title: Certifications
@@ -218,27 +228,55 @@ education:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      List of my publications
+    papers:
+      - title: "Performance Evaluation of ROS Local Trajectory Planning Algorithms to Social Navigation"
+        link: "https://ieeexplore.ieee.org/abstract/document/9018607"
+        authors: Fagner Pimentel, Plinio Aquino
+        conference: 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE)
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Hera: Home environment robot assistant"
+        link: "https://www.researchgate.net/profile/Plinio-Aquino-Junior/publication/333931333_HERA_Home_Environment_Robot_Assistant/links/5d0d0bd3458515c11ced3b68/HERA-Home-Environment-Robot-Assistant.pdf"
+        authors: Plinio Thomaz Aquino Junior, Bruno de Freitas Vece Perez, Rizzo Meneghetti, Fagner de Assis Moura Pimentel, Guilherme N Marostica 
+        conference: II BRAHUR and III Brazilian Workshop on Service Robotics
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Evaluation of ROS Navigation Stack for Social Navigation in Simulated Environments"
+        link: "https://link.springer.com/article/10.1007/s10846-021-01424-z"
+        authors:  Fagner de Assis Moura Pimentel, Plinio Thomaz Aquino-Jr
+        conference: Journal of Intelligent & Robotic Systems
+
+      - title: "MR-SoccerServer: Um Simulador de Futebol de Robôs usando Realidade Mista"
+        link: "https://www.researchgate.net/profile/Fagner-Pimentel/publication/304689698_MR-SoccerServer_Um_Simulador_de_Futebol_de_Robos_usando_RealidadeMista/links/5777567808aeb9427e279a8c/MR-SoccerServer-Um-Simulador-de-Futebol-de-Robos-usando-RealidadeMista.pdf"
+        authors:  José Grimaldo da S Filho, Adailton de J Cerqueira Jr, Juliana F Reichow, Fagner de AM Pimentel, Elen MR de J Casaes
+        conference: 
+
+      - title: "Proposal of a New Model for Social Navigation Based on Extraction of Social Contexts from Ontology in Service Robots"
+        link: "https://ieeexplore.ieee.org/abstract/document/9018600/"
+        authors:  Fagner de Assis Moura Pimentel, Plinio Thomaz Aquino
+        conference: 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE)
+
+      - title: "Mr-simulator: A simulator for the mixed reality competition of robocup"
+        link: "https://link.springer.com/chapter/10.1007/978-3-642-20217-9_8"
+        authors:  Marco AC Simões, Josemar Rodrigues de Souza, Fagner de Assis Moura Pimentel, Diego Frias
+        conference: Robot Soccer World Cup
+
+      - title: "Simulation system for learning of social rules using gazebo and openai gym"
+        link: "Simulation system for learning of social rules using gazebo and openai gym"
+        authors:  Fagner Pimentel, Plinio Thomaz Aquino-Junior
+        conference: III Brazilian Humanoid Robot Workshop and IV Brazilian Workshop on Service Robotics
+
+      - title: "Ship Segmentation in Sluice"
+        link: "https://www.researchgate.net/profile/Michele-Angelo-3/publication/282859872_Ship_Segmentation_in_Sluice/links/561fb7fe08ae70315b550dd2/Ship-Segmentation-in-Sluice.pdf"
+        authors:  Fagner Pimentel, Michele Fúlvia Angelo, Diego Frias
+        conference: 
+
+      - title: "DominoIA: Um Servidor de Jogos de Dominó"
+        link: "https://www.researchgate.net/profile/Fagner-Pimentel/publication/304692593_DominoIA_Um_Servidor_de_Jogos_de_Domino/links/57774c4808ae1b18a7e1b91f/DominoIA-Um-Servidor-de-Jogos-de-Domino.pdf"
+        authors:  Adailton de J Cerqueira Jr, Adriano Veiga Botelho, Fagner de AM Pimentel
+        conference: 
 
 # skills:
 #     title: Skills &amp; Proficiency
